@@ -1,6 +1,6 @@
 # Quickie
-Get tempmails easily and quick no cap
-#How To Use?
+Get tempmails easily and quick no cap</br><b>
+#How To Use?</b>
 Extremely easy bruh,just follow the steps below:
 Fire up Your Linux system and type the following commands:-
 pkg update && pkg upgrade

@@ -1,5 +1,4 @@
-# use python3 ya bro
-# Liat apa anjing >:(
+# for da hood bruh
 try:
 	import requests as r, random, json, os
 	from time import sleep
